@@ -1,0 +1,13 @@
+fastapi
+sqlalchemy
+uvicorn == 0.30.1
+pydantic
+passlib
+bcrypt
+python-jose
+python-multipart
+databases
+asyncpg
+alembic
+pymysql
+pytest
